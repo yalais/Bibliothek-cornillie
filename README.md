@@ -7,12 +7,6 @@ Interesting books are new books from an autor which is already in the librarie r
 to scrape the data and create the excelfile you have to follow these steps:
 
 - Fork this repository
-- install the requirements file
-
-```sh
-pip install -r requirements.txt
-```
-
 - navigate to the pipeline.py file in your terminal with 
 
 ```sh
