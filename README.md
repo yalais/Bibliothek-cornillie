@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 - navigate to the pipeline.py file in your terminal with 
--
+
 ```sh
 cd "path to pipeline.py"
 ```
