@@ -20,5 +20,5 @@ def run_notebook(notebook_path):
 notebook_path1 = "scraper/scraper_blatter.ipynb"
 notebook_path2 = "scraper/scraper_buchhaus.ipynb"
 
-run_notebook(notebook_path1)
+#run_notebook(notebook_path1)
 run_notebook(notebook_path2)
