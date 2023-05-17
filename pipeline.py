@@ -17,8 +17,8 @@ def run_notebook(notebook_path):
         raise Exception(f"Fehler beim Ausführen des Notebooks. {stderr}")
 
 # Path to the notebooks
-notebook_path1 = "scraper/scraper_blatter.ipynb"
-notebook_path2 = "scraper/scraper_buchhaus.ipynb"
+notebook_path1 = "scraper/scraper_buchhaus.ipynb"
+notebook_path2 = "analysis.ipynb"
 
-#run_notebook(notebook_path1)
+run_notebook(notebook_path1)
 run_notebook(notebook_path2)
