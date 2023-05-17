@@ -8,10 +8,12 @@ to scrape the data and create the excelfile you have to follow these steps:
 
 - Fork this repository
 - navigate to the pipeline.py file in your terminal with 
-'''
+'''sh
 cd 'your path tho pipeline.py
 '''
+
 - run this command in your terminal
-'''
+- 
+''' sh
 python pipeline.py
 '''
