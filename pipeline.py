@@ -19,6 +19,9 @@ def run_notebook(notebook_path):
 # Path to the notebooks
 notebook_path1 = "scraper/scraper_buchhaus.ipynb"
 notebook_path2 = "analysis.ipynb"
+notebook_path3 = "scraper/scraper_blatter.ipynb"
 
+# Run the notebooks
+run_notebook(notebook_path3)
 run_notebook(notebook_path1)
 run_notebook(notebook_path2)
