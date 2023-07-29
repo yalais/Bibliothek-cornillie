@@ -1,4 +1,4 @@
-# Bibliothek-cornillie
+# Webscraper for Libraries
 
 The goal of this site is to scrape book information for an easier buying descision.
 The Data is scraped and stored in an excelsheet. There is Also an analysis notebook which looks for interresting books.
